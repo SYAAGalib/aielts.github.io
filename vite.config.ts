@@ -19,4 +19,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  base: "./aielts.github.io", // Add this line to set the base URL to ./ for GitHub Page
 }));
