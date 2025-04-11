@@ -6,7 +6,7 @@ const AboutPage = () => {
     {
       name: "SK. Yeasin Ahsanullah Al Galib",
       role: "Founder & CEO",
-      image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+      image: "https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/472557464_1810231639750125_1071930846531317101_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ROMdG8ZxtxAQ7kNvwH_rQG9&_nc_oc=AdmBFhErCaZEULEbPE6Gvm_MdG0Yga1B35CTB8ODWu1CCz0eBZkfTPkoxRz7WoXdHJp98OlqovEtvDK19LBXT-KP&_nc_zt=23&_nc_ht=scontent.fdac80-1.fna&_nc_gid=1e_EFWf0_8eFeg3bdeaY4A&oh=00_AfH54dwilmshCwV7VBxxn7RfBObCgs49APpAbsUcAn7fsg&oe=67FF08EA",
       bio: "AI specialist with expertise in educational technology and natural language processing."
     },
     {
