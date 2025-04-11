@@ -123,8 +123,8 @@ const ContactPage = () => {
                 </div>
                 <div>
                   <h3 className="font-bold mb-1">Phone</h3>
-                  <p className="text-gray-600">+1 (555) 123-4567</p>
-                  <p className="text-gray-600">Mon-Fri, 9AM-5PM ET</p>
+                  <p className="text-gray-600">+880 1946 303020</p>
+                  <p className="text-gray-600">Sat-Thu, 9AM-5PM UTC +6:00</p>
                 </div>
               </motion.div>
 
@@ -134,8 +134,8 @@ const ContactPage = () => {
                 </div>
                 <div>
                   <h3 className="font-bold mb-1">Office</h3>
-                  <p className="text-gray-600">123 Education Street</p>
-                  <p className="text-gray-600">Cambridge, MA 02142</p>
+                  <p className="text-gray-600">01, Central Road More, Khan Jahan Ali Main Road</p>
+                  <p className="text-gray-600">Khulna, Bangladesh 9100</p>
                 </div>
               </motion.div>
 
@@ -146,7 +146,7 @@ const ContactPage = () => {
                 <div>
                   <h3 className="font-bold mb-1">Support Hours</h3>
                   <p className="text-gray-600">24/7 AI Chat Support</p>
-                  <p className="text-gray-600">Human support: Monday-Friday, 9AM-5PM ET</p>
+                  <p className="text-gray-600">Human support: Sat-Thu, 9AM-5PM UTC +6:00</p>
                 </div>
               </motion.div>
             </div>
@@ -181,7 +181,7 @@ const ContactPage = () => {
           transition={{ delay: 0.8 }}
         >
           <iframe 
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d47142.14637225662!2d-71.1282996!3d42.3731257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370a5cb30cc5f%3A0xc53a8e6489686c87!2sCambridge%2C%20MA!5e0!3m2!1sen!2sus!4v1619021232349!5m2!1sen!2sus" 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3677.8860427521654!2d89.567636!3d22.806686100000018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ff8f91cc4c74f9%3A0xf96ef1aae11f6067!2sAIELTS!5e0!3m2!1sen!2sbd!4v1744386544097!5m2!1sen!2sbd" 
             width="100%" 
             height="100%" 
             style={{ border: 0 }}

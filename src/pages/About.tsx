@@ -4,28 +4,28 @@ import { CheckCircle } from 'lucide-react';
 const AboutPage = () => {
   const teamMembers = [
     {
-      name: "Sarah Johnson",
+      name: "SK. Yeasin Ahsanullah Al Galib",
       role: "Founder & CEO",
       image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
-      bio: "Former IELTS examiner with 15+ years of experience in language education."
+      bio: "AI specialist with expertise in educational technology and natural language processing."
     },
     {
       name: "Michael Chen",
-      role: "Chief Technology Officer",
+      role: "Co-Founder & COO",
       image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
       bio: "AI specialist with expertise in educational technology and natural language processing."
     },
     {
-      name: "Priya Patel",
-      role: "Head of Content",
+      name: "Mehnaz Ahammed",
+      role: "Co-Foundear & CMO",
       image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e",
       bio: "IELTS trainer and curriculum developer with over 10 years in test preparation."
     },
     {
-      name: "David Wilson",
-      role: "Product Manager",
-      image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
-      bio: "EdTech product expert focused on creating personalized learning experiences."
+      name: "Shamim Reza",
+      role: "CTO",
+      image: "URL_ADDRESS.unsplash.com/photo-1500648767791-00dcc994a43e",
+      bio: "AI specialist with expertise in educational technology and natural language processing."
     }
   ];
 
@@ -49,7 +49,7 @@ const AboutPage = () => {
           <div>
             <h2 className="text-2xl md:text-3xl font-bold mb-6">Our Story</h2>
             <p className="text-gray-600 mb-4">
-              AIELTS.org was founded in 2023 by a team of experienced IELTS examiners and AI specialists who 
+              AIELTS.org was founded in 2024 by a team of experienced IELTS examiners and AI specialists who 
               recognized the limitations of traditional test preparation methods.
             </p>
             <p className="text-gray-600 mb-4">
@@ -69,7 +69,7 @@ const AboutPage = () => {
               </div>
               <div className="flex items-start gap-2">
                 <CheckCircle size={20} className="text-ielts-green mt-1 shrink-0" />
-                <p className="text-gray-600">Developed with input from thousands of IELTS test-takers</p>
+                <p className="text-gray-600">Developed with input from a large number of IELTS test-takers</p>
               </div>
               <div className="flex items-start gap-2">
                 <CheckCircle size={20} className="text-ielts-green mt-1 shrink-0" />
