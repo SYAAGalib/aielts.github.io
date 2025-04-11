@@ -12,19 +12,19 @@ const AboutPage = () => {
     {
       name: "Aiman Al Mahmud",
       role: "Co-Founder & COO",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+      image: "https://media.licdn.com/dms/image/v2/D5603AQFMhG0_bcEn3g/profile-displayphoto-shrink_800_800/B56ZNw2NaPGkAg-/0/1732765079791?e=1749686400&v=beta&t=Bwdo3qT7jXEn6TzgqD-KyR-8dutivKovac5nikahjng",
       bio: "AI specialist with expertise in educational technology and natural language processing."
     },
     {
       name: "Mehnaz Ahammed",
       role: "Co-Foundear & CMO",
-      image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e",
+      image: "https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/475455983_1359127368586831_705075950552810314_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeH9q7kWgUtAvLcTorcqtXXm7b5mHY7gPBftvmYdjuA8F4pT2Hj78fZdOEu-TIGj7K6mbzZE3RQI1r41LpDNzzpl&_nc_ohc=3yQekLLpGycQ7kNvwHUgx6o&_nc_oc=AdkZK-PSMP3WeeI37Q5J_OShTZd0E9o1LZSU3-gImMvZEIGFL1I30NdlThIXptv1Zr9HWWmoCrvWrpOSKvTyrgFg&_nc_zt=23&_nc_ht=scontent.fdac80-1.fna&_nc_gid=1N8ngWleoHYRLGJkuYjrIw&oh=00_AfFiOI26TyKrbkkSiW7CPmtPxWYQadfwT6UJHFxAiEAb8g&oe=67FF0F7C",
       bio: "IELTS trainer and curriculum developer with over 10 years in test preparation."
     },
     {
       name: "Shamim Reza",
       role: "CTO",
-      image: "URL_ADDRESS.unsplash.com/photo-1500648767791-00dcc994a43e",
+      image: "https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/462606614_27098676603113901_2448135000954095443_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH72xFc_iwaLZAmiqGvk-tE01D4r16Trv7TUPivXpOu_mrg1sPVSVvEPILHm6Ljvz2OAmJw2dp58JtwOWfWsw3g&_nc_ohc=eM2lFVDnCbkQ7kNvwElmbV1&_nc_oc=AdmeYl1tkhdAqhfWX29gULo7dIQ3m7vG186XU4X8MCbOCFYhhtdK9OBwZlaENrW9rM1n4XpKWcL0g3qQyCxWe1u2&_nc_zt=23&_nc_ht=scontent.fdac80-1.fna&_nc_gid=DwyJVhIauzS6KCrIizMpIg&oh=00_AfHBNfCTEJd-Q4CA-igCiClMOolNQWAoe8Bz3_TEo1Jy6A&oe=67FF2CBC",
       bio: "AI specialist with expertise in educational technology and natural language processing."
     }
   ];
