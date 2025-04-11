@@ -10,7 +10,7 @@ const AboutPage = () => {
       bio: "AI specialist with expertise in educational technology and natural language processing."
     },
     {
-      name: "Michael Chen",
+      name: "Aiman Al Mahmud",
       role: "Co-Founder & COO",
       image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
       bio: "AI specialist with expertise in educational technology and natural language processing."
